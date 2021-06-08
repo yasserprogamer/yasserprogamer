@@ -4,6 +4,8 @@ Hi! I'm yasserprogamer, I'm a minecraft player also a programmer! I made a Disco
 
 ------
 
+- 🎮 I'm playing games everyday! So I'm a Gamer.
+- 💻 I'm a programmer. I code: Javascript - Python - HTML & CSS - Java...etc.
 - 💬 <u>You can reach me fast</u> and talk with me directly from **Discord**!
 
 ------
