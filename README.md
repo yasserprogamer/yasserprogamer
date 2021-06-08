@@ -4,7 +4,7 @@ Hi! I'm yasserprogamer, I'm a minecraft player also a programmer! I made a Disco
 
 ------
 
-- 💬 <u>You can reach me fast</u> and talk with me directly from *Discord**!
+- 💬 <u>You can reach me fast</u> and talk with me directly from **Discord**!
 
 ------
 
