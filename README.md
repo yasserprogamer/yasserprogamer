@@ -36,3 +36,8 @@ If you like to follow me in others social media you can by clicking these button
 [![Twitter Follow](https://img.shields.io/twitter/follow/yasserprogamer?color=%2300acee&logo=Twitter&style=for-the-badge)](https://twitter.com/yasserprogamer)
 [![Discord server](https://img.shields.io/discord/712031661247823893?label=Discord%20server&logo=Discord&style=for-the-badge)](https://discord.gg/wJtBMnu)
 [![YouTube subscribers](https://img.shields.io/youtube/channel/subscribers/UChVIdm5QIPeJwG2b2g497aQ?logo=YouTube&style=for-the-badge)](https://www.youtube.com/c/powertechvideoandgaming)
+
+------
+
+### Looking for a Discord bot?
+> Yasserprogamer has created a new Discord bot everyone can use it and it is public to everyone! It has a lot of systems and commands you may try it! [Invite it now from top.gg!](https://top.gg/bot/720641361082056724)
