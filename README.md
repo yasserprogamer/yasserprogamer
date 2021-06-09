@@ -12,7 +12,7 @@ Hi! I'm yasserprogamer, I'm a minecraft player also a programmer! I made a Disco
 
 ------
 
-### Spotify Playing 🎧
+### 🎧 Spotify Playing
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/w4gaj8824i617it6b7zw0u3iv)
 
