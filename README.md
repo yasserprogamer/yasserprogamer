@@ -43,4 +43,4 @@ If you like to follow me in others social media you can by clicking these button
 ------
 
 ### Looking for a Discord bot?
-> Yasserprogamer has created a new Discord bot everyone can use it and it is public to everyone! It has a lot of systems and commands you may try it! [Invite it now from top.gg!](https://top.gg/bot/720641361082056724)
+> Yasserprogamer has created a new Discord bot that everyone can use it and public to everybody! It has a lot of systems and commands you may try it now! [Invite it now from top.gg!](https://top.gg/bot/720641361082056724)
