@@ -27,6 +27,10 @@
 
 ------
 
+<iframe src="https://discord.com/widget?id=712031661247823893&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
+------
+
 ### 🌐 Social media
 If you like to follow me in others social media you can by clicking these buttons!<br/><br/>
 [![GitHub](https://img.shields.io/github/followers/yasserprogamer?label=yasserprogamer&logo=GitHub&style=for-the-badge)](#)
