@@ -1,6 +1,6 @@
 # Hi there! I'm yasserprogamer
 ### 📙 Information
-**Hi! I'm yasserprogamer**, I'm a minecraft player also a programmer! I made a Discord Bot called TNT Bot. Also I'm a Discord user & YouTuber! I have a Discord server and websites, I also have a minecraft server you can join it but it is not 24/7 exactly! `yasserprogamer.tk` also you can check my repositories.<br/><br/>
+**Hi! I'm yasserprogamer**, I'm a gamer, programmer and YouTuber! I also have a Discord server you can join it now by [clicking here](https://discord.gg/wJtBMnu). I was having a minecraft server but it is dead now :( So, I'm planning to make one!<br/><br/>
 
 ------
 
