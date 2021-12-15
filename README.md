@@ -4,17 +4,11 @@
 
 ------
 
-- 🎮 I'm playing games everyday! So I'm a Gamer.
+- 🎮 I play games everyday! So I'm a Gamer.
 - 📖 I literally love to learn everything!
 - 💻 I'm a programmer. I code: Javascript - Python - HTML & CSS - Java...etc.
-- 💬 <u>You can reach me fast</u> and talk with me directly from **Discord**!
-- ⚡ I love hearing musics (my favorite songs category: RAP - ROCK - POP)
-
-------
-
-### 🎧 Spotify Playing
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/w4gaj8824i617it6b7zw0u3iv)
+- 💬 <u>You can reach me fast</u> by chatting with me directly in **Discord**!
+- ⚡ I like musics (my favorite songs category: RAP - POP)
 
 ------
 
