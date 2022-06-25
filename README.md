@@ -1,14 +1,15 @@
 # Hi there! I'm yasserprogamer
 ### 📙 Information
-**Hi! I'm yasserprogamer**, I'm a gamer, programmer and YouTuber! I also have a Discord server you can join it now by [clicking here](https://discord.gg/wJtBMnu). I was having a minecraft server but it is dead now :( So, I'm planning to make one!<br/><br/>
+**Hi! I'm yasserprogamer**, I'm a gamer, programmer and YouTuber! I also have a Discord server you can join it now by [clicking here](https://discord.gg/wJtBMnu). I used to have a Minecraft server but it is dead now :( So, I'm planning to make one!<br/><br/>
 
 ------
 
-- 🎮 I play games everyday! So I'm a Gamer.
-- 📖 I literally love to learn everything!
-- 💻 I'm a programmer. I code: Javascript - Python - HTML & CSS - Java...etc.
-- 💬 <u>You can reach me fast</u> by chatting with me directly in **Discord**!
-- ⚡ I like musics (my favorite songs category: RAP - POP)
+- 🎮 I play video games. My favorite game is Minecraft because I have a lot of memories on it.
+- 📖 I like to learn new things and useful information.
+- 💻 I'm a programmer. I code a lot of programming language such as Python, Node.JS, HTML (with css & JS), Java...etc.
+- **🎧** I love musics so much! My favorite songs categories are RAP and POP.
+- 🧬 I like math and physics and I'm better on them but physics kinda.
+- 😅 I don't have a lot of friends. Most of them hurt me so bad. I'd be happy if you become my friend.
 
 ------
 
@@ -25,6 +26,16 @@
 [<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](#)
 <br/><br/>
 
+
+
+### 🌎 Languages that I speak
+
+**I currently speak 2 languages but I'm learning other.**
+
+- Arabic
+- English (US)
+- *Currently learning Spanish. Wish me a good luck!*
+
 ------
 
 ### 🌐 Social media
@@ -36,5 +47,5 @@ I'd like if you follow me in those platforms:<br/><br/>
 
 ------
 
-### Looking for a Discord bot?
-> Yasserprogamer has created a new Discord bot that everyone can use it and public to everybody! It has a lot of systems and commands you may try it now! [Invite it now from top.gg!](https://top.gg/bot/720641361082056724)
+### 👀 Looking for a Discord bot?
+> I have created an advanced Discord bot. I will be happy if you invite and use it. [Invite it now from top.gg!](https://top.gg/bot/720641361082056724)
