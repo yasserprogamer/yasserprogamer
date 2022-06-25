@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/71287199" width="50" height="50" align="center" />
+<img src="https://avatars.githubusercontent.com/u/71287199" width="150" height="150" align="left" />
 
 # Hi there! I'm yasserprogamer
 ### 📙 Information
