@@ -1,3 +1,5 @@
+<img src="https://avatars.githubusercontent.com/u/71287199" width="50" height="50" align="center" />
+
 # Hi there! I'm yasserprogamer
 ### 📙 Information
 **Hi! I'm yasserprogamer**, I'm a gamer, programmer and YouTuber! I also have a Discord server you can join it now by [clicking here](https://discord.gg/wJtBMnu). I used to have a Minecraft server but it is dead now :( So, I'm planning to make one!<br/><br/>
