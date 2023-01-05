@@ -48,13 +48,12 @@ I'd like if you follow me in those platforms:<br/><br/>
 [![Discord server](https://img.shields.io/discord/712031661247823893?label=Discord%20server&logo=Discord&style=for-the-badge)](https://discord.yasserprogamer.ml/)
 [![YouTube subscribers](https://img.shields.io/youtube/channel/subscribers/UChVIdm5QIPeJwG2b2g497aQ?logo=YouTube&style=for-the-badge)](https://www.youtube.com/c/powertechvideoandgaming)
 
-------
 
-### 👀 Looking for a Discord bot?
-> I have created an advanced Discord bot. I will be happy if you invite and use it. [Invite it now from top.gg!](https://top.gg/bot/720641361082056724)
 
 ---
 
-### 🥇 Great repositories I made
+### 💵 Support me
 
-* **DB Manager:** [Click here to check.](https://github.com/yasserprogamer/DBManager)
+**Help me building my projects and career by donating me a few money.**
+
+<a href="https://www.buymeacoffee.com/yasserprogamer"  target="_blank"><img  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"  alt="Buy Me A Coffee" style="height: 60px !important;width: 217px  !important;" ></a>
