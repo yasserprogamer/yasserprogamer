@@ -11,7 +11,6 @@
 - 💻 I'm a programmer. I usually code in Python, JavaScript, Java, PHP...etc.
 - **🎧** I love music and I like to listen to songs.
 - 🧬 I like math, physics, chemistry and computer science.
-- 😅 I do not have a lot of friends. I have some, I like them.
 
 ------
 
