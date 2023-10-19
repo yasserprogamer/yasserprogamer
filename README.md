@@ -47,12 +47,3 @@ I'd like if you follow me in those platforms:<br/><br/>
 [![Discord server](https://img.shields.io/discord/1145793062539366504?label=Discord%20server&logo=Discord&style=for-the-badge)](https://yasserprogamer.github.io/website/discord.html)
 [![YouTube subscribers](https://img.shields.io/youtube/channel/subscribers/UChVIdm5QIPeJwG2b2g497aQ?logo=YouTube&style=for-the-badge)](https://www.youtube.com/c/yasserprogamer)
 
-
-
----
-
-### 💵 Support me
-
-**Help me building my projects and career by donating me a few money.**
-
-<a href="https://www.buymeacoffee.com/yasserprogamer"  target="_blank"><img  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"  alt="Buy Me A Coffee" style="height: 60px !important;width: 217px  !important;" ></a>
